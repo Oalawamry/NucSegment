@@ -3,6 +3,8 @@ Model for segmentation of cell nuclei from microscopy images.
 
 All notebooks were run on Google Colab for ease of collaboration and access to GPU. It is recommended that they are opened in colab.
 
+**If a notebook is too large to display on github, it can be downloaded and "open in colab" button will appear when viewed**
+
 # Directory Structure:
 
 The kaggle dataset "2018 Data Science Bowl" was used in this project. To run the code, the .zip file needs to be `data-science-bowl-2018.zip` at `/content/`.
